@@ -19,6 +19,6 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=humblef0ol&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=humblef0ol&icon=0&color=5)]100000
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
