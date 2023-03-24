@@ -17,9 +17,9 @@
 
 <br>
 
-### Glad to see you here!  As a front-end developer, I specialize in developing responsive and user-friendly web applications using HTML, CSS, JavaScript and frameworks like React. I have a strong understanding of web design principles and user experience, and I am able to translate design concepts into functional and visually appealing web pages. I enjoy challenges of problem-solving and applying different algorithms and data structures to solve complex problems efficiently.
+### Glad to see you here!  As a front-end developer, I specialize in developing responsive and user-friendly web applications using HTML, CSS, JavaScript and frameworks like React. I have a strong understanding of web design principles and user experience, and I am able to translate design concepts into functional and visually appealing web pages. I enjoy challenges of problem-solving and applying different algorithms and data structures to solve complex problems efficiently. ###
 
-I am a continuous learner who is always seeking to improve my skills and stay up-to-date with the latest trends and technologies in front-end development. I am passionate about creating web applications that provide an exceptional user experience and am always looking for new and innovative ways to achieve this goal.  
+#### I am a continuous learner who is always seeking to improve my skills and stay up-to-date with the latest trends and technologies in front-end development. I am passionate about creating web applications that provide an exceptional user experience and am always looking for new and innovative ways to achieve this goal.  ####
   
 
 <br/>  
