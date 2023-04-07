@@ -74,7 +74,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=humblef0ol&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 👨🏽‍💻Language Stats
+## ⚡Language Stats
 
 | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"> <img width="100%" height="100%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=HUMBLEF0OL&layout=compact&langs_count=10&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages"></a> | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HUMBLEF0OL&theme=radical" alt=""></a>   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -82,14 +82,14 @@
 
 </div>
 
-### :zap: GitHub Metrics 📊
+<!-- ### :zap: GitHub Metrics 📊
 
 <img src="https://github.com/HUMBLEF0OL/HUMBLEF0OL/blob/main/images/Line.gif">
 <p align="center">
   <a href="https://github.com/HUMBLEF0OL" target="_blank">
     <img width="75%" src="https://github.com/HUMBLEF0OL/HUMBLEF0OL/blob/main/metrics.svg"/>
   </a>
-</p>
+</p> -->
 
 <!-- LEETCODE STATS -->
 <!-- <h2 align="center"><img src="https://github.com/HUMBLEF0OL/HUMBLEF0OL/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
