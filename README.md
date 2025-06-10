@@ -106,8 +106,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=v597fv2lvdennuvrr078twu9d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
 <br/>  
 
 <div align="center">
